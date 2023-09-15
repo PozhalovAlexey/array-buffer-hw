@@ -3,11 +3,11 @@ class Character {
         this.distance = 1
     }
 
-    set Stoned(value) {
+    set stoned(value) {
         this._stoned = value
     }
 
-    get Stoned() {
+    get stoned() {
         return this._stoned
     }
 
